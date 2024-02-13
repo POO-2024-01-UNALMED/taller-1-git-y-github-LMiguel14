@@ -1,0 +1,1 @@
+Ya se puede hacer un commit porque la carpeta ya no se encuentra vacia y se actualiza como un cambio para Github en el repositorio

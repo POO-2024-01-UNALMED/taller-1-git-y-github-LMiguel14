@@ -1,3 +1,8 @@
 Luis Miguel Orozco Hincapie
 18 
 Mis aspiraciones con esta materia es tener claro los conceptos de de la programación orientada a objetos que me permita tener una visión más amplia de la programación
+Ya se puede hacer un commit porque la carpeta ya no se encuentra vacia y se actualiza como un cambio para Github en el repositorio
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+  
+  Para evitar conflictos que afecten el proyecto
